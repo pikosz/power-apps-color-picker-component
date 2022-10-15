@@ -5,7 +5,7 @@
 #
 #
 ### Overview
-![](https://s7.gifyu.com/images/color-picker.gif)
+![](https://s7.gifyu.com/images/color-picker2.gif)
 #
 #
 ## How to use
